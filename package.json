@@ -1,22 +1,22 @@
 {
-  "name": "MuziKa",
+  "name": "bottesting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anandhere8/MuziKa.git"
+    "url": "git+https://github.com/indirectonly08/bottesting.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anandhere8/MuziKa/issues"
+    "url": "https://github.com/indirectonly08/bottesting/issues"
   },
-  "homepage": "https://github.com/anandhere8/MuziKa#readme",
+  "homepage": "https://github.com/indirectonly08/bottesting#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
     "opusscript": "0.0.7",
